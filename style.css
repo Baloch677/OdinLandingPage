@@ -1,0 +1,126 @@
+.Main-Head{
+    background-color: #1f2937;
+    color: rgb(243, 237, 237);
+    padding-left: 100px;
+    padding-right: 100px;
+
+
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    
+    padding-top: 25px;
+}
+
+
+.header-logo{
+   font-size: 30px;
+  
+
+   
+}
+
+.header-links{
+ 
+
+
+}
+
+
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: f9faf8;
+}
+
+
+p1{
+    font-size: 18px;
+    color: e5e7eb;
+ 
+   
+}
+
+
+.leftright{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.left{
+    justify-content: flex-start;
+    justify-content: space-between;
+    
+}
+
+.right{
+ 
+    justify-content: flex-end;
+    align-items: center;
+    padding-right: 50px;
+    padding-bottom: 50px;
+
+
+}
+
+
+.right img{
+    height: 500px;
+    width: auto;
+}
+
+.Head img{
+height: 50px;
+width: 150px;
+
+
+}
+
+
+
+
+
+
+.Paragraph{
+color: rgb(32, 29, 29);
+background-color: rgb(205, 217, 228);
+display: flex;
+font-size: 25px;
+margin-top: 100px;
+
+}
+
+.Body{
+    padding-left: 100px;
+    padding-right: 100px;
+    margin-top: 100px;
+    
+}
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.banner{
+    display: flex;
+    justify-content: space-around
+    
+}
+
+.Call{
+    padding-left: 100px;
+    margin-top: 100px;
+}
+
+.footer{
+    padding-left: 100px;
+    margin-top: 75px;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    font-size: 25px;
+}
