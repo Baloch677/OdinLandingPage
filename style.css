@@ -29,7 +29,6 @@
  
 }
 
-
 h1{
     font-size: 48px;
     font-weight: bolder;
@@ -78,6 +77,9 @@ p1{
 img{
     height: 150px;
     width: 250px;
+    border-radius: 20px;
+    border: solid;
+    border-color: #3882f6;
 }
 
 
@@ -94,6 +96,7 @@ color: #1f2937;
 
 }
 
+
 .Body{
     padding-left: 100px;
     padding-right: 100px;
@@ -109,7 +112,9 @@ h2{
 
 .banner{
     display: flex;
-    justify-content: space-around
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
     
 }
 
